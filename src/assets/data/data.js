@@ -4,8 +4,8 @@ export const data = {
             id: 1,
             name: 'Roki',
             child: 'Putra ke 5',
-            father: 'Tan Kiat Oh',
-            mother: '(Alm) Cun Nio',
+            father: 'Tjong Kiat Oh',
+            mother: '(Alm) Tjoa Cun Nio',
             image: './src/assets/images/cowo.png'
         },
         P: {
