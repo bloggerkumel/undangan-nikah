@@ -5,7 +5,7 @@ export const data = {
             name: 'Roki',
             child: 'Putra ke 5',
             father: 'Tjong Kiat Oh',
-            mother: '(Alm) Tjoa Cun Nio',
+            mother: '(Almh) Tjoa Cun Nio',
             image: './src/assets/images/cowo.png'
         },
         P: {
@@ -37,7 +37,7 @@ export const data = {
             date: '22',
             day: 'Minggu',
             hours: {
-                start: '09.00',
+                start: '10.00',
                 finish: 'Selesai'
             }
         },
@@ -77,7 +77,7 @@ export const data = {
             id: 1,
             name: 'Roki',
             icon: './src/assets/images/bca.png',
-            rekening: '12345678'
+            rekening: '5311151674'
         },
         {
             id: 2,
